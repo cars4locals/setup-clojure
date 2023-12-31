@@ -63,7 +63,7 @@ jobs:
         run: boot -V
 ```
 
-For more application cases please check [Smoke Test Workflow file](https://github.com/DeLaGuardo/setup-clojure/blob/master/.github/workflows/smoke-tests.yml)
+For more application cases please check [Smoke Test Workflow file](https://github.com/cars4locals/setup-clojure/blob/master/.github/workflows/smoke-tests.yml)
 
 # License
 
